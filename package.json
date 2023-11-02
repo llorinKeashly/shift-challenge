@@ -1,0 +1,11 @@
+{
+  "name": "shift-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:chromium": "cypress run --headed --browser chromium"
+  },
+  "author": "",
+  "license": "ISC"
+}
